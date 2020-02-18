@@ -1,0 +1,95 @@
+<?xml version=1.0 encoding=UTF-8?>
+
+<all> 
+
+<!-- waktu dapat disesuaikan dengan jumlah soal yang ada, begitu juga nilai tiap soalnya -->
+<contents>
+<timeleft>60</timeleft>
+<point>100</point>
+</contents>
+
+<!-- quest1 menampilkan soal teks dan pilihan jawaban gambar
+soal yang akan tampil sebanyak soal yang diinputkan -->
+<quest1>
+<q1>Which one is an eye?</q1> 
+<op1>Images/Eye-Colored-Sticker.png</op1> 
+<op2>Images/Arm-Colored-Sticker.png</op2> 
+<op3>Images/Hand-Colored-Sticker.png</op3>
+<op4>Images/Ear-Colored-Sticker.png</op4>
+</quest1>
+
+<quest1>
+<q1>Which one is an ear?</q1> 
+<op1>Images/Ear-Colored-Sticker.png</op1> 
+<op2>Images/Foot-Colored-Sticker.png</op2> 
+<op3>Images/Eye-Colored-Sticker.png</op3>
+<op4>Images/Lips-Colored-Sticker.png</op4>
+</quest1>
+
+<quest1>
+<q1>Which one is a hand?</q1> 
+<op1>Images/Hand-Colored-Sticker.png</op1> 
+<op2>Images/Nose-Colored-Sticker.png</op2> 
+<op3>Images/Foot-Colored-Sticker.png</op3>
+<op4>Images/Arm-Colored-Sticker.png</op4>
+</quest1>
+
+<quest1>
+<q1>Which one is a tooth?</q1> 
+<op1>Images/Tooth-Colored-Sticker.png</op1> 
+<op2>Images/Lips-Colored-Sticker.png</op2> 
+<op3>Images/Nose-Colored-Sticker.png</op3>
+<op4>Images/Ear-Colored-Sticker.png</op4>
+</quest1>
+
+<quest1>
+<q1>Which one is a leg?</q1> 
+<op1>Images/Leg-Colored-Sticker.png</op1> 
+<op2>Images/Foot-Colored-Sticker.png</op2> 
+<op3>Images/Hair-Colored-Sticker.png</op3>
+<op4>Images/Tooth-Colored-Sticker.png</op4>
+</quest1>
+
+<!-- quest2 menampilkan soal berupa gambar dan pilihan jawaban teks
+soal yang akan tampil sebanyak soal yang diinputkan -->
+<quest2>
+<q1>Images/Hair-Colored-Sticker.png</q1> 
+<op1>Hair</op1> 
+<op2>Eye</op2> 
+<op3>Lips</op3>
+<op4>Tooth</op4>
+</quest2>
+
+<quest2>
+<q1>Images/Nose-Colored-Sticker.png</q1> 
+<op1>Nose</op1> 
+<op2>Arm</op2> 
+<op3>Ear</op3>
+<op4>Foot</op4>
+</quest2>
+
+<quest2>
+<q1>Images/Foot-Colored-Sticker.png</q1> 
+<op1>Foot</op1> 
+<op2>Lips</op2> 
+<op3>Leg</op3>
+<op4>Ear</op4>
+</quest2>
+
+<quest2>
+<q1>Images/Arm-Colored-Sticker.png</q1> 
+<op1>Arm</op1> 
+<op2>Hand</op2> 
+<op3>Hair</op3>
+<op4>Foot</op4>
+</quest2>
+
+<quest2>
+<q1>Images/Lips-Colored-Sticker.png</q1> 
+<op1>Lips</op1> 
+<op2>Eye</op2> 
+<op3>Ear</op3>
+<op4>Hair</op4>
+</quest2>
+
+</all>
